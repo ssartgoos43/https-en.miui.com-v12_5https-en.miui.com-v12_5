@@ -1,0 +1,5 @@
+--------- beginning of system
+05-26 00:59:25.823 28125 28125 W NetworkStats: bandwidth controls disabled, unable to track stats
+05-26 00:59:25.823 28125 28125 W NetworkPolicy: bandwidth controls disabled, unable to enforce policy
+05-26 00:59:26.261 28125 28125 I Telecom : TelecomGlobals: TelecomGlobals initializing
+05-26 00:59:26.331 28125 28125 I Telecom : TelecomGlobals: CallsManager initialized
